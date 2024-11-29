@@ -112,8 +112,8 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## **Author**
-Developed by [Your Name](https://github.com/<your-username>). If you have any questions or feedback, feel free to reach out!
+Developed by [Your Name](https://github.com/<Lova kumar>). If you have any questions or feedback, feel free to reach out!
 
----
 
-This structure ensures all critical aspects are covered, making the README informative and easy to navigate. Let me know if you need any edits or further customization!
+
+
