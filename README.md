@@ -112,7 +112,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## **Author**
-Developed by [Your Name](https://github.com/<Lova kumar>). If you have any questions or feedback, feel free to reach out!
+Developed by [Lova kumar](https://github.com/<lovakumar12>). If you have any questions or feedback, feel free to reach out!
 
 
 
