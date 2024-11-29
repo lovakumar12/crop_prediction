@@ -1,0 +1,54 @@
+{
+  "build": "h8cc25b3_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\kumar\\anaconda3\\pkgs\\zlib-1.2.13-h8cc25b3_1",
+  "files": [
+    "Library/bin/zlib.dll",
+    "Library/include/zconf.h",
+    "Library/include/zlib.h",
+    "Library/lib/pkgconfig/zlib.pc",
+    "Library/lib/z.lib",
+    "Library/lib/zdll.lib",
+    "Library/lib/zlib.lib",
+    "Library/lib/zlibstatic.lib",
+    "Library/share/man/man3/zlib.3",
+    "zlib.dll",
+    ".nonadmin"
+  ],
+  "fn": "zlib-1.2.13-h8cc25b3_1.conda",
+  "license": "Zlib",
+  "link": {
+    "source": "C:\\Users\\kumar\\anaconda3\\pkgs\\zlib-1.2.13-h8cc25b3_1",
+    "type": 1
+  },
+  "md5": "1f7ea85632611b25599e4cddf5b51d7d",
+  "name": "zlib",
+  "package_tarball_full_path": "C:\\Users\\kumar\\anaconda3\\pkgs\\zlib-1.2.13-h8cc25b3_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/zlib.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_72khlqt_kh/croot/zlib_1714514696139/_h_env",
+        "sha256": "98c186a7407d4aa5524b6755406948c1ad9be2bf6a525dd8552df97e1901498d",
+        "sha256_in_prefix": "05519ca1de37c349b0929852ca0439097289dec985941f91ee99ad198788b461",
+        "size_in_bytes": 520
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "48eef468ca392090e6fe57c3ba54e3a7dc1412f9c417c248575d0717e9a5ed3d",
+  "size": 133776,
+  "subdir": "win-64",
+  "timestamp": 1714514792000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zlib-1.2.13-h8cc25b3_1.conda",
+  "version": "1.2.13"
+}
